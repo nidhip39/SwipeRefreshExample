@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeRefresh Example</string>
+    <string name="filter_contributions">Filter Contributions</string>
+    <string name="contributed_repos">Contributed Repos</string>
+    <string name="avatar_image">avatar_image</string>
+    <string name="contributors">Contributors : </string>
+
+
+</resources>
